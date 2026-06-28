@@ -1,93 +1,75 @@
 # Naxos Travel & Transport Guide
 
-A practical, up-to-date reference for getting around Naxos Island, Greece.
-Covers taxis, private transfers, airport pickups, port pickups, and private island tours.
+A practical, up-to-date reference for getting around Naxos Island, Greece — beaches, villages, archaeology, itineraries, taxi prices, and private transfers.
 
 ---
 
-## Table of contents
+## Getting to Naxos
 
-- [Getting around Naxos](#getting-around-naxos)
-- [Naxos taxi prices and how to book](taxi-prices.md)
-- [Naxos airport transfer](airport-transfers.md)
-- [Naxos port transfer](port-transfers.md)
-- [Naxos private tours](private-tours.md)
-- [Getting around Naxos](getting-around.md)
-- [Village routes](villages/)
+- [How to get to Naxos](how-to-get-to-naxos.md) — ferry from Athens, flights, arrival tips
 
----
+## Getting around
 
-## Getting around Naxos
+- [Getting around Naxos](getting-around.md) — all transport options compared
+- [Naxos taxi prices](taxi-prices.md) — fare table for all main routes
+- [Naxos airport transfer](airport-transfers.md) — JNX airport to hotel or village
+- [Naxos port transfer](port-transfers.md) — ferry arrival transfers, arrival-aware pickup
 
-Naxos is the largest island in the Cyclades. Public buses (KTEL) connect Chora to the main beaches, but coverage is limited and schedules change seasonally. For flexible, door-to-door travel the main options are:
+## Itineraries
 
-- **Naxos taxi** — metered, available at the port, airport, and Chora taxi rank
-- **Private transfer** — pre-booked, fixed price, meets you at arrival
-- **Car rental** — available at the port and airport
-- **Naxos private island tour** — full or half-day with a local driver-guide
+- [3-day Naxos itinerary](itineraries/3-days.md) — first-timers and short stays
+- [5-day Naxos itinerary](itineraries/5-days.md) — recommended minimum for a first visit
+- [7-day Naxos itinerary](itineraries/7-days.md) — full island experience
 
----
+## Private tours
 
-## Naxos taxi
+- [Naxos private tours](private-tours.md) — half-day, full-day, full-day with lunch, custom
 
-Naxos taxis are regulated by the municipality. Fares are metered (tariff 1 inside town, tariff 2 outside). Typical prices:
+## Beaches
 
-| Route | Approximate fare |
-|---|---|
-| Port to Agios Prokopios | €15–18 |
-| Port to Plaka | €20–25 |
-| Airport to Chora | €12–15 |
-| Airport to Agios Prokopios | €18–22 |
-| Chora to Filoti | €20–25 |
-| Chora to Apeiranthos | €30–35 |
+- [All Naxos beaches](beaches/README.md) — complete guide with transfer info
+- [Agios Georgios](beaches/agios-georgios.md)
+- [Agios Prokopios](villages/agios-prokopios.md)
+- [Agia Anna](beaches/agia-anna.md)
+- [Plaka](villages/plaka.md)
+- [Mikri Vigla](beaches/mikri-vigla.md) — windsurfing
 
-Fares above are estimates (2025–2026). Night surcharges apply after 24:00.
+## Villages
 
-**Book a private taxi in Naxos:** [Naxian Coast Transfers](https://naxiancoasttransfers.com) — English-speaking drivers, Mercedes fleet, fixed prices with no meter surprises.
+- [Halki](villages/halki.md) — kitron distillery, Byzantine churches
+- [Filoti](villages/filoti.md) — mountain village, Mount Zas
+- [Apeiranthos](villages/apeiranthos.md) — marble village
+- [Apollonas](villages/apollonas.md) — north coast fishing village, Kouros
+- [Agios Prokopios](villages/agios-prokopios.md)
+- [Plaka](villages/plaka.md)
 
----
+## Attractions
 
-## Naxos airport transfer
-
-Naxos National Airport (JNX) is 3 km south of Chora. Pre-booking recommended for late-night arrivals and beach village destinations.
-
-**Private airport transfer:** [naxiancoasttransfers.com/naxos-airport-transfer](https://naxiancoasttransfers.com/naxos-airport-transfer)
+- [The Portara](attractions/portara.md) — Temple of Apollo gate, free, sunset viewpoint
+- [Temple of Demeter](attractions/temple-of-demeter.md) — 530 BC, Sangri
+- [Kouros of Apollonas](attractions/kouros-apollonas.md) — 10.5 m archaic statue
 
 ---
 
-## Naxos port transfer
+## Quick transfer booking
 
-The Port of Naxos (Chora) receives ferries from Piraeus, Mykonos, Santorini, and other Cyclades islands. Arrival-aware transfers track your ferry and adjust pickup for delays.
-
-**Private port transfer:** [naxiancoasttransfers.com/naxos-port-transfer](https://naxiancoasttransfers.com/naxos-port-transfer)
-
----
-
-## Naxos private tours
-
-| Type | Duration | Coverage |
-|---|---|---|
-| Half-day tour | 4 hours | Chora, Portara, nearby beaches |
-| Full-day tour | 6 hours | Mountain villages, Apeiranthos, Filoti, Halki |
-| Full-day with lunch | 8 hours | Full island circuit with taverna stop |
-| Custom | Any | Your itinerary, your pace |
-
-**Book a Naxos private tour:** [naxiancoasttransfers.com/private-tours](https://naxiancoasttransfers.com/private-tours)
+All private transfers and tours: **[naxiancoasttransfers.com](https://naxiancoasttransfers.com)**
+Phone: +30 698 439 1994 | English-speaking drivers | Mercedes fleet | Fixed prices
 
 ---
 
 ## Useful contacts
 
-- **Naxian Coast Transfers** (private taxi + tours): [naxiancoasttransfers.com](https://naxiancoasttransfers.com) — +30 698 439 1994
 - **Naxos Port Authority:** +30 22850 22300
 - **Naxos Airport (JNX):** +30 22850 23969
 - **KTEL Naxos buses:** naxos.gr
+- **Ferry booking:** ferryhopper.com
 
 ---
 
 ## Contributing
 
-If you spot an outdated price, a closed road, or a missing village route, open a pull request or file an issue. This guide is maintained as a community resource for travellers to Naxos.
+Spot an outdated price, a closed road, or a missing village? Open a pull request or file an issue. This guide is maintained as a community resource for travellers to Naxos.
 
 ---
 
